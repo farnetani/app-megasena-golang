@@ -30,6 +30,9 @@ Exemplo online: https://go.dev/play/p/Sb-5sIs_jqH
 
 ```
 
+## Demo
+[Exemplo para rodar online (basta dar o player)](https://go.dev/play/p/Sb-5sIs_jqH)
+
 ## :wrench: Instalação e Uso
 
 ```bash
