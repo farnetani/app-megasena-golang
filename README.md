@@ -37,7 +37,10 @@ Exemplo online: https://go.dev/play/p/Sb-5sIs_jqH
 ## :wrench: Instalação e Uso
 
 ```bash
-go run main.go
+go run main.go <quantidade de jogos>
+
+# Imprime 10 jogos
+go run main.go 10
 ```
 
 <br>
